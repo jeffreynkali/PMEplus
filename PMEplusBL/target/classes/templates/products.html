@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head lang="en">
+
+    <title>PME +</title>
+    <!--/*/ <th:block th:include="fragments/headerinc_dashboard :: head_dashboard"></th:block> /*/-->
+</head>
+<body>
+<div class="container">
+    <!--/*/ <th:block th:include="fragments/header_fixed_top :: header_fixed_top_products"></th:block> /*/-->
+
+    <div th:if="${not #lists.isEmpty(products)}">
+        <h2>Product List</h2>
+        <table class="table table-striped">
+            <tr>
+                <th>Product Id</th>
+                <th>Name</th>
+                <th>Category</th>
+                <th>View</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+            <tr th:each="product : ${products}">
+                <td th:text="${product.idProduct}"><a href="/product/${product.idProduct}">Product Id</a></td>
+                <td th:text="${product.name}">Name</td>
+                <td th:text="${product.category}">Category</td>
+                <td><a th:href="${ '/product/' + product.idProduct}">View</a></td>
+                <td><a th:href="${'/product/edit/' + product.idProduct}">Edit</a></td>
+                <td><a th:href="${'/product/delete/' + product.idProduct}">Delete</a></td>
+            </tr>
+        </table>
+
+    </div>
+    <!--/*/ <th:block th:include="fragments/adminLTE :: dashboard_scripts"></th:block> /*/-->
+</div>
+
+</body>
+</html>

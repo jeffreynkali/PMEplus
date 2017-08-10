@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head lang="en">
+
+    <title>PME +</title>
+
+    <!--/*/ <th:block th:include="fragments/headerinc_dashboard :: head_dashboard"></th:block> /*/-->
+</head>
+<body>
+<div class="container">
+    <!--/*/ <th:block th:include="fragments/header_fixed_top :: header_fixed_top_shops"></th:block> /*/-->
+
+    <h2>Shop Details</h2>
+    <div>
+        <form class="form-horizontal">
+            <div class="form-group">
+                <label class="col-sm-2 control-label">Shop Id:</label>
+                <div class="col-sm-10">
+                    <p class="form-control-static" th:text="${shop.idShop}">Shop Id</p></div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-2 control-label">Street:</label>
+                <div class="col-sm-10">
+                    <p class="form-control-static" th:text="${shop.address!=null}?${shop.address.street}:''">Street</p>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-2 control-label">City:</label>
+                <div class="col-sm-10">
+                    <p class="form-control-static" th:text="${shop.address!=null}?${shop.address.city}:''">City</p>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-2 control-label">Province:</label>
+                <div class="col-sm-10">
+                    <p class="form-control-static" th:text="${shop.address!=null}?${shop.address.province}:''">Province</p>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-2 control-label">Postal Code:</label>
+                <div class="col-sm-10">
+                    <p class="form-control-static" th:text="${shop.address!=null}?${shop.address.postalCode}:''">PostalCode</p>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-2 control-label">Phone:</label>
+                <div class="col-sm-10">
+                    <p class="form-control-static" th:text="${shop.phone}">Phone</p>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-2 control-label">Email:</label>
+                <div class="col-sm-10">
+                    <p class="form-control-static" th:text="${shop.email}">Email</p>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-2 control-label">Registration Date:</label>
+                <div class="col-sm-10">
+                    <p class="form-control-static" th:text="${shop.registrationDate}">Registration Date</p>
+                </div>
+            </div>
+        </form>
+    </div>
+    <!--/*/ <th:block th:include="fragments/adminLTE :: dashboard_scripts"></th:block> /*/-->
+</div>
+
+</body>
+</html>

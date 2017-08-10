@@ -1,0 +1,38 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<head lang="en">
+
+    <title>PME +</title>
+
+    <!--/*/ <th:block th:include="fragments/headerinc_dashboard :: head_dashboard"></th:block> /*/-->
+</head>
+<body>
+<div class="container">
+    <!--/*/ <th:block th:include="fragments/header_fixed_top :: header_fixed_top_products"></th:block> /*/-->
+
+    <h2>Shop Details</h2>
+    <div>
+        <form class="form-horizontal" th:object="${product}" th:action="@{/product}" method="post">
+            <input type="hidden" th:field="*{idProduct}"/>
+            <input type="hidden" th:field="*{version}"/>
+            <div class="form-group">
+                <label class="col-sm-2 control-label">Name:</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" th:field="*{name}"/>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-2 control-label">Category:</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" th:field="*{category}"/>
+                </div>
+            </div>
+            <div class="row">
+                <button type="submit" class="btn btn-default">Submit</button>
+            </div>
+        </form>
+    </div>
+    <!--/*/ <th:block th:include="fragments/adminLTE :: dashboard_scripts"></th:block> /*/-->
+</div>
+
+</body>
+</html>

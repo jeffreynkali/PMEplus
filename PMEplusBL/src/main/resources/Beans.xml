@@ -1,0 +1,62 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<beans xmlns = "http://www.springframework.org/schema/beans"
+       xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation = "
+       http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Initialization for data source -->
+    <bean id="dataSource"
+          class = "org.springframework.jdbc.datasource.DriverManagerDataSource">
+        <property name = "driverClassName" value = "org.postgresql.Driver"/>
+        <property name = "url" value = "jdbc:postgresql://localhost:5432/PMEplus"/>
+        <property name = "username" value = "postgres"/>
+        <property name = "password" value = "postgres"/>
+        <property name="connectionProperties">
+            <props>
+                <prop key="socketTimeout">10</prop>
+            </props>
+        </property>
+    </bean>
+
+    <!-- Initialization for PlatformTransactionManager -->
+    <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="dataSource"/>
+    </bean>
+
+    <!-- Definition for MemberDAO bean -->
+    <bean id = "memberDAO"
+          class = "com.pme.plus.pmeplus.DAOPattern.DAOImpl.MemberDAOImpl"
+          autowire="byName">
+    </bean>
+
+    <!-- Definition for MemberControllerAPI bean -->
+    <bean id = "memberControllerAPI"
+          class = "com.pme.plus.pmeplus.Impl.Controller.MemberControllerImpl"
+          autowire = "byName">
+    </bean>
+
+    <!-- Definition for MemberRESTController bean -->
+    <bean id = "memberRESTController"
+          class = "com.pme.plus.pmeplus.Rest.V1.MemberRESTController"
+          autowire = "byName">
+    </bean>
+
+    <!-- Definition for MemberService bean -->
+    <bean id = "memberService"
+          class = "com.pme.plus.pmeplus.Impl.Service.MemberServiceImpl">
+    </bean>
+
+    <!-- Definition for ShopService bean -->
+    <bean id = "shopService"
+          class = "com.pme.plus.pmeplus.Impl.Service.ShopServiceImpl">
+    </bean>
+
+    <!-- Definition for ProductService bean -->
+    <bean id = "productService"
+          class = "com.pme.plus.pmeplus.Impl.Service.ProductServiceImpl">
+    </bean>
+
+
+</beans>

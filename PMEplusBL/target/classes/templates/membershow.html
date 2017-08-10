@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head lang="en">
+
+    <title>PME +</title>
+
+    <!--/*/ <th:block th:include="fragments/headerinc_dashboard :: head_dashboard"></th:block> /*/-->
+</head>
+<body>
+<div class="container">
+    <!--/*/ <th:block th:include="fragments/header_fixed_top :: header_fixed_top_members"></th:block> /*/-->
+
+    <h2>Member Details</h2>
+    <div>
+        <form class="form-horizontal">
+            <div class="form-group">
+                <label class="col-sm-2 control-label">Member Id:</label>
+                <div class="col-sm-10">
+                    <p class="form-control-static" th:text="${member.idMember}">Member Id</p></div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-2 control-label">Firstname:</label>
+                <div class="col-sm-10">
+                    <p class="form-control-static" th:text="${member.firstname}">Firstname</p>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-2 control-label">Lastname:</label>
+                <div class="col-sm-10">
+                    <p class="form-control-static" th:text="${member.lastname}">Lastname</p>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-2 control-label">Email:</label>
+                <div class="col-sm-10">
+                    <p class="form-control-static" th:text="${member.email}">email</p>
+                </div>
+            </div>
+        </form>
+    </div>
+    <!--/*/ <th:block th:include="fragments/adminLTE :: dashboard_scripts"></th:block> /*/-->
+</div>
+
+</body>
+</html>

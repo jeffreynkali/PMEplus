@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head lang="en">
+
+    <title>PME +</title>
+    <!--/*/ <th:block th:include="fragments/headerinc_dashboard :: head_dashboard"></th:block> /*/-->
+</head>
+<body>
+<div class="container">
+    <!--/*/ <th:block th:include="fragments/header_fixed_top :: header_fixed_top_shops"></th:block> /*/-->
+
+    <div th:if="${not #lists.isEmpty(shops)}">
+        <h2>Shop List</h2>
+        <table class="table table-striped">
+            <tr>
+                <th>Shop Id</th>
+                <th>Street</th>
+                <th>City</th>
+                <th>Province</th>
+                <th>Postal Code</th>
+                <th>Phone</th>
+                <th>Email</th>
+                <th>Registration Date</th>
+                <th>View</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+            <tr th:each="shop : ${shops}">
+                <td th:text="${shop.idShop}"><a href="/shop/${shop.idShop}">Shop Id</a></td>
+                <td th:text="${shop.address!=null}?${shop.address.street}:'not specified'">Street</td>
+                <td th:text="${shop.address!=null}?${shop.address.city}:'not specified'">City</td>
+                <td th:text="${shop.address!=null}?${shop.address.province}:'not specified'">Province</td>
+                <td th:text="${shop.address!=null}?${shop.address.postalCode}:'not specified'">Postal Code</td>
+                <td th:text="${shop.phone}">Phone</td>
+                <td th:text="${shop.email}">Email</td>
+                <td th:text="${shop.registrationDate}">Registration Date</td>
+                <td><a th:href="${ '/shop/' + shop.idShop}">View</a></td>
+                <td><a th:href="${'/shop/edit/' + shop.idShop}">Edit</a></td>
+                <td><a th:href="${'/shop/delete/' + shop.idShop}">Delete</a></td>
+            </tr>
+        </table>
+
+    </div>
+    <!--/*/ <th:block th:include="fragments/adminLTE :: dashboard_scripts"></th:block> /*/-->
+</div>
+
+</body>
+</html>

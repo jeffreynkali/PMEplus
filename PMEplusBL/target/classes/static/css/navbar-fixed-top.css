@@ -1,0 +1,10 @@
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+}
+
+.jumbotron {
+    background-color: #95c3ea; /* Sky blue */
+    color: #ffffff;
+    padding: 100px 25px;
+}

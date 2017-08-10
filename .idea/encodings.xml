@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PMEplusAPI" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PMEplusBL" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PMEplusDocker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PMEplusIMPL" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PMEplusJPA" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PMEplusREST" charset="UTF-8" />
+  </component>
+</project>

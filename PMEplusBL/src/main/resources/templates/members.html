@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head lang="en">
+
+    <title>PME +</title>
+
+    <!--/*/ <th:block th:include="fragments/headerinc_dashboard :: head_dashboard"></th:block> /*/-->
+</head>
+<body>
+<div class="container">
+    <!--/*/ <th:block th:include="fragments/header_fixed_top :: header_fixed_top_members"></th:block> /*/-->
+
+    <div th:if="${not #lists.isEmpty(members)}">
+        <h2>Member List</h2>
+        <table class="table table-striped">
+            <tr>
+                <th>Member Id</th>
+                <th>Firstname</th>
+                <th>Lastname</th>
+                <th>Email</th>
+                <th>View</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+            <tr th:each="member : ${members}">
+                <td th:text="${member.idMember}"><a href="/member/${member.idMember}">Member Id</a></td>
+                <td th:text="${member.firstname}">Firstname</td>
+                <td th:text="${member.lastname}">Lastname</td>
+                <td th:text="${member.email}">Email</td>
+                <td><a th:href="${ '/member/' + member.idMember}">View</a></td>
+                <td><a th:href="${'/member/edit/' + member.idMember}">Edit</a></td>
+                <td><a th:href="${'/member/delete/' + member.idMember}">Delete</a></td>
+            </tr>
+        </table>
+
+    </div>
+    <!--/*/ <th:block th:include="fragments/adminLTE :: dashboard_scripts"></th:block> /*/-->
+</div>
+
+</body>
+</html>

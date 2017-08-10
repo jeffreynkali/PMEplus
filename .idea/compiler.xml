@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="PMEplusAPI" />
+        <module name="PMEplusBL" />
+        <module name="PMEplusDAO" />
+        <module name="PMEplusDB" />
+        <module name="PMEplusDocker" />
+        <module name="PMEplusIMPL" />
+        <module name="PMEplusJPA" />
+        <module name="PMEplusREST" />
+        <module name="POJO" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="PMEplus" target="1.8" />
+      <module name="PMEplusAPI" target="1.8" />
+      <module name="PMEplusBL" target="1.8" />
+      <module name="PMEplusDAO" target="1.8" />
+      <module name="PMEplusDB" target="1.5" />
+      <module name="PMEplusDocker" target="1.8" />
+      <module name="PMEplusIMPL" target="1.8" />
+      <module name="PMEplusJPA" target="1.8" />
+      <module name="PMEplusREST" target="1.8" />
+      <module name="POJO" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

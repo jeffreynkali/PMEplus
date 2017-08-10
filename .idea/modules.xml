@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PMEplus.iml" filepath="$PROJECT_DIR$/.idea/PMEplus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PMEplusAPI/PMEplusAPI.iml" filepath="$PROJECT_DIR$/PMEplusAPI/PMEplusAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PMEplusBL/PMEplusBL.iml" filepath="$PROJECT_DIR$/PMEplusBL/PMEplusBL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PMEplusDocker/PMEplusDocker.iml" filepath="$PROJECT_DIR$/PMEplusDocker/PMEplusDocker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PMEplusIMPL/PMEplusIMPL.iml" filepath="$PROJECT_DIR$/PMEplusIMPL/PMEplusIMPL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PMEplusJPA/PMEplusJPA.iml" filepath="$PROJECT_DIR$/PMEplusJPA/PMEplusJPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PMEplusREST/PMEplusREST.iml" filepath="$PROJECT_DIR$/PMEplusREST/PMEplusREST.iml" />
+    </modules>
+  </component>
+</project>
