@@ -5,186 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f59b3565-2883-473c-8b8c-c17166e3866a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_196.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_12_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Draft_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_9_4_1206_jdbc42.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_1_5_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_5_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_1_5_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_5_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_2_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_2_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_2_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bootstrap_3_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_logging_1_2_javadoc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/spring_aop_4_3_9_RELEASE_javadoc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusAPI/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusAPI/src/main/java/com/pme/plus/pmeplus/api/Controller/IndexControllerAPI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusAPI/src/main/java/com/pme/plus/pmeplus/api/Controller/MemberControllerAPI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusAPI/src/main/java/com/pme/plus/pmeplus/api/Service/MemberServiceAPI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusAPI/src/main/java/com/pme/plus/pmeplus/api/Service/ProductServiceAPI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusAPI/src/main/java/com/pme/plus/pmeplus/api/Service/ShopServiceAPI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/PMEplusBL.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/Controller/MemberController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/Controller/MvcConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/Controller/ProductController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/Controller/ShopController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/MainApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/Beans.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/theme1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/dashboard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_dashboard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_fixed_top.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_signin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/memberform.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/members.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/membershow.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/productform.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/products.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/productshow.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shopform.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shops.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shopshow.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusDocker/PMEplusDocker.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusDocker/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusIMPL/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/Config/RepositoryConfiguration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/Config/SecurityConfiguration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/Config/WebConfiguration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/Impl/Controller/IndexControllerImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/Impl/Controller/MemberControllerImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/Impl/Service/MemberServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/Impl/Service/ProductServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/Impl/Service/ShopServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/PMEplusJPA.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/DAO/MemberDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/DAO/MemberShopDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/DAO/ProductDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/DAO/ProductShopDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/DAO/ShopDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/DAO/TransactionShopDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/DAOImpl/MemberDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/DAOImpl/MemberShopDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/DAOImpl/ProductDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/DAOImpl/ProductShopDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/DAOImpl/ShopDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/DAOImpl/TransactionShopDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/Datasource/DatasourceDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/Mapping/MemberMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/Mapping/MemberShopMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/Mapping/ProductMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/Mapping/ProductShopMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/Mapping/ShopMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/Mapping/TransactionShopMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/Mapping/UDT/AddresUDTMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/Member.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/MemberShop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/Product.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/ProductShop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/Shop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/TransactionShop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/UDT/Address.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/UDT/MemberShopId.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/UDT/ProductShopId.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/UDT/TransactionShopId.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/RepositoryPattern/Loader/MemberLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/RepositoryPattern/Loader/MemberShopLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/RepositoryPattern/Loader/ProductLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/RepositoryPattern/Loader/ProductShopLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/RepositoryPattern/Loader/ShopLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/RepositoryPattern/Loader/TransactionShopLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/RepositoryPattern/Repository/MemberRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/RepositoryPattern/Repository/MemberShopRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/RepositoryPattern/Repository/ProductRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/RepositoryPattern/Repository/ProductShopRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/RepositoryPattern/Repository/ShopRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/RepositoryPattern/Repository/TransactionShopRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/resources/PMEplusProcedures.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/main/resources/PMEplusSchema.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusJPA/src/test/java/com/pme/plus/pmeplus/RepositoryPattern/Repository/MemberRepositoryTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusREST/PMEplusREST.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusREST/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusREST/src/main/java/com/pme/plus/pmeplus/Rest/V1/ErrorHandlingController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PMEplusREST/src/main/java/com/pme/plus/pmeplus/Rest/V1/MemberRESTController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/navbar-fixed-top.css" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/navbar-fixed-top.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/signin.css" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/signin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/dashboard.html" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/adminLTE.html" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/adminLTE.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/header_fixed_top.html" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/header_fixed_top.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_dashboard.html" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/signin.html" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/signin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/index.html" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/memberform.html" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/memberform.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/members.html" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/members.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/membershow.html" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/membershow.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/productform.html" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/productform.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/products.html" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/products.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/productshow.html" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/productshow.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shopform.html" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shopform.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shops.html" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shops.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shopshow.html" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shopshow.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/target/classes/templates/fragments/header_fixed_top.html" afterPath="$PROJECT_DIR$/PMEplusBL/target/classes/templates/fragments/header_fixed_top.html" />
     </list>
     <ignored path="$PROJECT_DIR$/PMEplusAPI/target/" />
     <ignored path="$PROJECT_DIR$/PMEplusDB/target/" />
@@ -205,7 +44,153 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="members.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/members.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shopform.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shopform.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productshow.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/productshow.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productform.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/productform.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="membershow.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/membershow.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="memberform.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/memberform.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header_fixed_top.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/header_fixed_top.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="1377" column="6" lean-forward="false" selection-start-line="1377" selection-start-column="6" selection-end-line="1377" selection-end-column="6" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#1;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#2;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#3;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#1;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#2;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#3;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#1;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#2;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#3;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#1;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#2;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#3;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#nav#0;n#header#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#nav#0;n#header#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#1;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#2;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#3;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar-fixed-top.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/navbar-fixed-top.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adminLTE.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/adminLTE.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="813" column="23" lean-forward="false" selection-start-line="813" selection-start-column="23" selection-end-line="813" selection-end-column="23" />
+              <folding>
+                <element signature="n#li#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#1;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#3;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -223,6 +208,7 @@
       <find>n</find>
       <find>nsi</find>
       <find>'</find>
+      <find>logo</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -260,8 +246,6 @@
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/signup.html" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_signin.html" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/login.html" />
-        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/signin.html" />
-        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/signin.css" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/header.html" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc.html" />
         <option value="$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/Config/SecurityConfiguration.java" />
@@ -277,23 +261,25 @@
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/memberShow.html" />
         <option value="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/Shop.java" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shopShow.html" />
-        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/navbar-fixed-top.css" />
         <option value="$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/RepositoryPattern/Loader/ShopLoader.java" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/Controller/MvcConfig.java" />
-        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/dashboard.html" />
-        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/adminLTE.html" />
-        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/header_fixed_top.html" />
+        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/signin.html" />
+        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/signin.css" />
+        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/navbar-fixed-top.css" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_dashboard.html" />
+        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/dashboard.html" />
+        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/header_fixed_top.html" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/index.html" />
-        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/memberform.html" />
-        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/members.html" />
-        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/membershow.html" />
-        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/productform.html" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/products.html" />
-        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/productshow.html" />
-        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shopform.html" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shops.html" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shopshow.html" />
+        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shopform.html" />
+        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/productshow.html" />
+        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/productform.html" />
+        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/membershow.html" />
+        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/memberform.html" />
+        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/adminLTE.html" />
+        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/members.html" />
       </list>
     </option>
   </component>
@@ -334,6 +320,214 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PMEplus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplusBL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplusBL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplusBL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplusBL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplusBL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fragments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplusBL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplusBL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMEplusBL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -833,6 +1027,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -860,7 +1055,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5108434" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42891565" sideWeight="0.49427754" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42891565" sideWeight="0.49427754" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28540772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="MaxCompute Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -872,9 +1067,51 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28674698" sideWeight="0.48855507" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42891565" sideWeight="0.50572246" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="MaxCompute Job" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="MaxCompute Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="MaxCompute Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.49570817" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5108434" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42891565" sideWeight="0.49427754" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28540772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="MaxCompute Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28674698" sideWeight="0.48855507" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -887,31 +1124,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/src.zip!/java/lang/Override.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="50" column="18" lean-forward="false" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/Config/WebConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/theme1.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/signin.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1084,14 +1300,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/navbar-fixed-top.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/UDT/Address.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1171,75 +1379,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/signin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/signin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="41" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/adminLTE.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="758">
-          <caret line="861" column="83" lean-forward="false" selection-start-line="861" selection-start-column="83" selection-end-line="861" selection-end-column="83" />
-          <folding>
-            <element signature="n#li#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#1;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#3;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="82" lean-forward="false" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/header_fixed_top.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="275" column="19" lean-forward="false" selection-start-line="275" selection-start-column="19" selection-end-line="275" selection-end-column="19" />
-          <folding>
-            <element signature="n#li#0;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#1;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#2;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#3;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#0;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#1;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#2;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#3;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#0;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#1;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#2;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#3;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#0;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#1;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#2;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#3;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#0;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#1;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#2;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#3;n#ul#1;n#div#1;n#div#0;n#nav#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_fixed_top.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="82" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="82" />
+        <state relative-caret-position="428">
+          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -1252,86 +1403,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/dashboard.html">
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/adminLTE/AdminLTE.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="93" />
+        <state relative-caret-position="78">
+          <caret line="374" column="0" lean-forward="true" selection-start-line="374" selection-start-column="0" selection-end-line="394" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/font-awesome/4.7.0/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="93" lean-forward="false" selection-start-line="10" selection-start-column="93" selection-end-line="10" selection-end-column="93" />
+        <state relative-caret-position="120">
+          <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/memberform.html">
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="39" column="93" lean-forward="false" selection-start-line="39" selection-start-column="93" selection-end-line="39" selection-end-column="93" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="511">
+          <caret line="46" column="116" lean-forward="false" selection-start-line="46" selection-start-column="116" selection-end-line="46" selection-end-column="116" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/members.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="36" column="93" lean-forward="false" selection-start-line="36" selection-start-column="93" selection-end-line="36" selection-end-column="93" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/membershow.html">
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_fixed_top.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="40" column="93" lean-forward="false" selection-start-line="40" selection-start-column="93" selection-end-line="40" selection-end-column="93" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <caret line="14" column="82" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="82" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/productform.html">
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="33" column="93" lean-forward="false" selection-start-line="33" selection-start-column="93" selection-end-line="33" selection-end-column="93" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/products.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="33" column="93" lean-forward="false" selection-start-line="33" selection-start-column="93" selection-end-line="33" selection-end-column="93" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/productshow.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="34" column="93" lean-forward="false" selection-start-line="34" selection-start-column="93" selection-end-line="34" selection-end-column="93" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shopform.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="63" column="93" lean-forward="false" selection-start-line="63" selection-start-column="93" selection-end-line="63" selection-end-column="93" />
+        <state relative-caret-position="120">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
@@ -1340,8 +1455,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shops.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="43" column="93" lean-forward="false" selection-start-line="43" selection-start-column="93" selection-end-line="43" selection-end-column="93" />
+        <state relative-caret-position="120">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
@@ -1350,11 +1465,136 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shopshow.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="64" column="93" lean-forward="false" selection-start-line="64" selection-start-column="93" selection-end-line="64" selection-end-column="93" />
+        <state relative-caret-position="135">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/shopform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/productshow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/productform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/membershow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/memberform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/adminLTE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="813" column="23" lean-forward="false" selection-start-line="813" selection-start-column="23" selection-end-line="813" selection-end-column="23" />
+          <folding>
+            <element signature="n#li#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/header_fixed_top.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="1377" column="6" lean-forward="false" selection-start-line="1377" selection-start-column="6" selection-end-line="1377" selection-end-column="6" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#nav#0;n#header#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#nav#0;n#header#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#1;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/navbar-fixed-top.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/members.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>

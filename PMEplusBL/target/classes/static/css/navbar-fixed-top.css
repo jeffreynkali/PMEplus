@@ -8,3 +8,30 @@ body {
     color: #ffffff;
     padding: 100px 25px;
 }
+
+.logo {
+    position: fixed;
+    top: 0;
+    left: 0
+}
+
+@media (max-width: 767px) {
+  .main-header {
+    position: relative;
+  }
+  .main-header .logo {
+    width: 100%;
+    float: none;
+    position: relative!important;
+  }
+  .main-header .navbar {
+    margin: 0;
+  }
+  .main-header .navbar-custom-menu {
+    float: right;
+  }
+  .main-sidebar,
+  .left-side {
+    padding-top: 100px!important;
+  }
+}
