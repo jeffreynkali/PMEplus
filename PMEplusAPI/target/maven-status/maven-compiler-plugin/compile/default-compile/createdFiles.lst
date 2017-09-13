@@ -1,3 +1,5 @@
-com/pme/plus/pmeplus/api/Controller/MemberControllerAPI.class
+com/pme/plus/pmeplus/api/Service/ProductServiceAPI.class
 com/pme/plus/pmeplus/api/Controller/IndexControllerAPI.class
+com/pme/plus/pmeplus/api/Service/ShopServiceAPI.class
+com/pme/plus/pmeplus/api/Controller/MemberControllerAPI.class
 com/pme/plus/pmeplus/api/Service/MemberServiceAPI.class

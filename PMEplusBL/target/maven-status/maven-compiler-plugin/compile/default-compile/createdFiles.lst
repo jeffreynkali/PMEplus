@@ -1,4 +1,5 @@
-com/pme/plus/pmeplus/Controller/MemberController.class
 com/pme/plus/pmeplus/Controller/MvcConfig.class
-com/pme/plus/pmeplus/Controller/IndexController.class
+com/pme/plus/pmeplus/Controller/ProductController.class
+com/pme/plus/pmeplus/Controller/MemberController.class
+com/pme/plus/pmeplus/Controller/ShopController.class
 com/pme/plus/pmeplus/MainApp.class
