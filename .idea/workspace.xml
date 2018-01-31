@@ -137,14 +137,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusIMPL/target/PMEplusIMPL-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/PMEplusIMPL/target/PMEplusIMPL-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusJPA/target/PMEplusJPA-1.0-SNAPSHOT-exec.jar" afterPath="$PROJECT_DIR$/PMEplusJPA/target/PMEplusJPA-1.0-SNAPSHOT-exec.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusJPA/target/PMEplusJPA-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/PMEplusJPA/target/PMEplusJPA-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusJPA/target/classes/com/pme/plus/pmeplus/Entity/Shop.class" afterPath="$PROJECT_DIR$/PMEplusJPA/target/classes/com/pme/plus/pmeplus/Entity/Shop.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusJPA/target/classes/com/pme/plus/pmeplus/RepositoryPattern/Loader/ShopLoader.class" afterPath="$PROJECT_DIR$/PMEplusJPA/target/classes/com/pme/plus/pmeplus/RepositoryPattern/Loader/ShopLoader.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusREST/target/PMEplusREST-1.0-SNAPSHOT-exec.jar" afterPath="$PROJECT_DIR$/PMEplusREST/target/PMEplusREST-1.0-SNAPSHOT-exec.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusREST/target/PMEplusREST-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/PMEplusREST/target/PMEplusREST-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusAPI/pom.xml" afterPath="$PROJECT_DIR$/PMEplusAPI/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusAPI/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/PMEplusAPI/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusAPI/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/PMEplusAPI/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusAPI/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/PMEplusAPI/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/theme1.css" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/theme1.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_dashboard.html" afterPath="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_dashboard.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/target/classes/static/css/adminLTE/AdminLTE.css" afterPath="$PROJECT_DIR$/PMEplusBL/target/classes/static/css/adminLTE/AdminLTE.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/target/classes/static/css/adminLTE/AdminLTE.min.css" afterPath="$PROJECT_DIR$/PMEplusBL/target/classes/static/css/adminLTE/AdminLTE.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/target/classes/static/css/adminLTE/skins/_all-skins.css" afterPath="$PROJECT_DIR$/PMEplusBL/target/classes/static/css/adminLTE/skins/_all-skins.css" />
@@ -608,20 +608,19 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/target/classes/static/plugins/timepicker/bootstrap-timepicker.min.js" afterPath="$PROJECT_DIR$/PMEplusBL/target/classes/static/plugins/timepicker/bootstrap-timepicker.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/target/classes/templates/fragments/adminLTE.html" afterPath="$PROJECT_DIR$/PMEplusBL/target/classes/templates/fragments/adminLTE.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/target/classes/templates/fragments/header_fixed_top.html" afterPath="$PROJECT_DIR$/PMEplusBL/target/classes/templates/fragments/header_fixed_top.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/target/classes/templates/fragments/headerinc_dashboard.html" afterPath="$PROJECT_DIR$/PMEplusBL/target/classes/templates/fragments/headerinc_dashboard.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/PMEplusBL/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/PMEplusBL/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusBL/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/PMEplusBL/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusDocker/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/PMEplusDocker/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusIMPL/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/PMEplusIMPL/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusIMPL/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/PMEplusIMPL/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusIMPL/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/PMEplusIMPL/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusJPA/PMEplusJPA.iml" afterPath="$PROJECT_DIR$/PMEplusJPA/PMEplusJPA.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusJPA/pom.xml" afterPath="$PROJECT_DIR$/PMEplusJPA/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusJPA/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/PMEplusJPA/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusJPA/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/PMEplusJPA/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusJPA/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/PMEplusJPA/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusJPA/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/PMEplusJPA/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusREST/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/PMEplusREST/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PMEplusREST/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/PMEplusREST/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/PMEplusAPI/target/" />
     <ignored path="$PROJECT_DIR$/PMEplusDB/target/" />
@@ -641,7 +640,68 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="73" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="headerinc_dashboard.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_dashboard.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme1.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/theme1.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="61" lean-forward="false" selection-start-line="0" selection-start-column="61" selection-end-line="0" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminLTE.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/adminLTE/AdminLTE.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header_fixed_top.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/header_fixed_top.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="1389" column="10" lean-forward="true" selection-start-line="1389" selection-start-column="10" selection-end-line="1389" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adminLTE.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/adminLTE.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-193">
+              <caret line="820" column="41" lean-forward="false" selection-start-line="820" selection-start-column="24" selection-end-line="820" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -660,6 +720,9 @@
       <find>nsi</find>
       <find>'</find>
       <find>logo</find>
+      <find>dashboard_scripts</find>
+      <find>body_jumbotron</find>
+      <find>wrapper</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -680,19 +743,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PMEplusAPI/src/main/java/com/pme/plus/pmeplus/api/controller/MemberControllerAPI.java" />
-        <option value="$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/SecurityConfiguration.java" />
         <option value="$PROJECT_DIR$/PMEplusAPI/src/main/java/com/pme/plus/pmeplus/api/service/MemberServiceAPI.java" />
         <option value="$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/impl/service/MemberServiceImpl.java" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/memberform.html" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/Controller/MemberController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/PMEplusJPA/pom.xml" />
         <option value="$PROJECT_DIR$/PMEplusBL/pom.xml" />
         <option value="$PROJECT_DIR$/PMEplusDocker/pom.xml" />
         <option value="$PROJECT_DIR$/PMEplusAPI/src/main/java/com/pme/plus/pmeplus/api/Controller/MemberControllerAPI.java" />
         <option value="$PROJECT_DIR$/PMEplusAPI/src/main/java/com/pme/plus/pmeplus/api/Service/MemberServiceAPI.java" />
-        <option value="$PROJECT_DIR$/PMEplusAPI/pom.xml" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/loginForm.html" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/signup.html" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_signin.html" />
@@ -717,7 +775,6 @@
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/signin.html" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/signin.css" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/navbar-fixed-top.css" />
-        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_dashboard.html" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/dashboard.html" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/header_fixed_top.html" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/index.html" />
@@ -731,6 +788,12 @@
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/memberform.html" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/adminLTE.html" />
         <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/members.html" />
+        <option value="$PROJECT_DIR$/PMEplusJPA/pom.xml" />
+        <option value="$PROJECT_DIR$/PMEplusAPI/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/adminLTE/AdminLTE.css" />
+        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/theme1.css" />
+        <option value="$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_dashboard.html" />
       </list>
     </option>
   </component>
@@ -742,7 +805,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
+    <option name="width" value="691" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectView">
@@ -760,10 +823,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -771,15 +831,63 @@
               <item name="PMEplus" type="b2602c69:ProjectViewProjectNode" />
               <item name="PMEplus" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PMEplus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PMEplus" type="462c0819:PsiDirectoryNode" />
+              <item name="PMEplusBL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PMEplus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PMEplus" type="462c0819:PsiDirectoryNode" />
+              <item name="PMEplusBL" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PMEplus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PMEplus" type="462c0819:PsiDirectoryNode" />
+              <item name="PMEplusBL" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PMEplus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PMEplus" type="462c0819:PsiDirectoryNode" />
+              <item name="PMEplusBL" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PMEplus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PMEplus" type="462c0819:PsiDirectoryNode" />
+              <item name="PMEplusBL" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PMEplus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PMEplus" type="462c0819:PsiDirectoryNode" />
+              <item name="PMEplusBL" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -895,6 +1003,18 @@
       </option>
       <envs />
       <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="PMEplus" />
+      <envs />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -1027,18 +1147,6 @@
       <module name="" />
       <envs />
       <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="PMEplus" />
-      <envs />
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -1258,20 +1366,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.49570817" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42891565" sideWeight="0.50572246" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5108434" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37243047" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4280532" sideWeight="0.49427754" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4280532" sideWeight="0.49427754" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29256082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23247497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1292,7 +1402,6 @@
       <window_info id="MaxCompute Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.49570817" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="MaxCompute Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28674698" sideWeight="0.48855507" order="1" side_tool="false" content_ui="tabs" />
@@ -1354,48 +1463,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/theme1.css" />
-    <entry file="file://$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/Config/SecurityConfiguration.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/header.html" />
-    <entry file="file://$PROJECT_DIR$/PMEplusAPI/src/main/java/com/pme/plus/pmeplus/api/Service/MemberServiceAPI.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusAPI/src/main/java/com/pme/plus/pmeplus/api/Service/ShopServiceAPI.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusAPI/src/main/java/com/pme/plus/pmeplus/api/Service/ProductServiceAPI.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/Beans.xml" />
-    <entry file="file://$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/Impl/Service/ShopServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/Impl/Service/MemberServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/Impl/Service/ProductServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/Controller/ProductController.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/MainApp.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc.html" />
-    <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/MemberShop.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/ProductShop.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/TransactionShop.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/Member.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/Shop.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/Product.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/Controller/ShopController.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/UDT/Address.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/RepositoryPattern/Loader/ShopLoader.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1044">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_signin.html" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/Controller/MemberController.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusREST/src/main/java/com/pme/plus/pmeplus/Rest/V1/MemberRESTController.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusREST/src/main/java/com/pme/plus/pmeplus/Rest/V1/ErrorHandlingController.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/Controller/DashboardController.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/Controller/IndexController.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/Controller/MvcConfig.java" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/signin.css" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/signin.html" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/login.html" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/adminLTE/AdminLTE.css" />
     <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/font-awesome/4.7.0/css/font-awesome.css" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_dashboard.html" />
     <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_fixed_top.html" />
     <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/dashboard.html" />
     <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/products.html" />
@@ -1406,11 +1474,297 @@
     <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/productform.html" />
     <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/membershow.html" />
     <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/memberform.html" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/adminLTE.html" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/header_fixed_top.html" />
     <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/navbar-fixed-top.css" />
-    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/index.html" />
     <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/members.html" />
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/DAO/MemberDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-489">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/DAO/MemberShopDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/DAO/ProductDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/Datasource/DatasourceDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/Mapping/MemberMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/RepositoryPattern/Loader/MemberLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/RepositoryPattern/Loader/MemberShopLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-215">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/RepositoryPattern/Repository/MemberRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/Entity/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-245">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/Impl/Controller/IndexControllerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusAPI/src/main/java/com/pme/plus/pmeplus/api/Controller/MemberControllerAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusAPI/src/main/java/com/pme/plus/pmeplus/api/Controller/IndexControllerAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/Controller/ShopController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-395">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/Controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-380">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/Controller/MvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/Impl/Controller/MemberControllerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusIMPL/src/main/java/com/pme/plus/pmeplus/Impl/Service/MemberServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="91" column="10" lean-forward="true" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/java/com/pme/plus/pmeplus/Controller/MemberController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusJPA/src/main/java/com/pme/plus/pmeplus/DAOPattern/DAOImpl/MemberDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2769#2777#0" expanded="false" />
+            <element signature="e#3909#3917#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusJPA/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.5.RELEASE/spring-boot-dependencies-1.5.5.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="536" column="12" lean-forward="false" selection-start-line="536" selection-start-column="12" selection-end-line="536" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="57" column="21" lean-forward="false" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+          <folding>
+            <element signature="n#build#0;n#project#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusAPI/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/pages/examples/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/adminLTE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-193">
+          <caret line="820" column="41" lean-forward="false" selection-start-line="820" selection-start-column="24" selection-end-line="820" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/header_fixed_top.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="1389" column="10" lean-forward="true" selection-start-line="1389" selection-start-column="10" selection-end-line="1389" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/adminLTE/AdminLTE.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="73" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/adminLTE/skins/skin-blue.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="85" column="19" lean-forward="false" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/adminLTE/skins/_all-skins.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/adminLTE/AdminLTE.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/static/css/theme1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="61" lean-forward="false" selection-start-line="0" selection-start-column="61" selection-end-line="0" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PMEplusBL/src/main/resources/templates/fragments/headerinc_dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -1452,7 +1806,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.6</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1464,7 +1818,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>PMEplusAPI</last-edited>
+          <last-edited>PMEplus</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
