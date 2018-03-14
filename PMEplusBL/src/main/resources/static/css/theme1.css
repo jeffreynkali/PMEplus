@@ -1,3 +1,22 @@
+ html, body {
+    height: 100%;
+ }
+
+
+ body {
+    padding-top: 50px; /* Adding such a padding to avoid overlapping the navbar on the body */
+ }
+
+
+ .main-header>.navbar {
+     margin-left: 0px; /* Overriding the blank margin left by the adminLTE.min.css file */
+ }
+
+ .form-horizontal .control-label{
+    text-align:right;
+ }
+
+
  .skin-blue .wrapper, .skin-red .wrapper, .skin-green .wrapper{
     background: #eeeeee;
  }
@@ -14,6 +33,14 @@
       display: none;
     }
   }
+
+   /* Remove the top padding when the screen is less than 767 pixels wide */
+    @media (max-width: 767px) {
+      body {
+        padding-top: 0px;
+      }
+    }
+
 
   .container {
     height: 100%;
